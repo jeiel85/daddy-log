@@ -1,0 +1,40 @@
+<ko-KR>
+두피케어기록 첫 출시입니다.
+두피와 모발 상태, 각도별 사진, 케어 루틴을 매일 기록하고 시간에 따른 변화를 비교할 수 있습니다.
+- 정면·정수리·측면 각도별 사진 기록
+- 두피·모발 컨디션과 생활 습관 기록
+- 샴푸·토닉·약·영양제 등 케어 루틴 체크
+- 비교와 통계로 변화 확인
+- PIN 잠금과 기기 내부 보관으로 안심
+모든 기록은 기기 안에만 저장되며 외부로 전송되지 않습니다.
+</ko-KR>
+<en-US>
+The first release of Daddy Log.
+Record your scalp and hair condition, angle-by-angle photos, and care routines every day, then compare how they change over time.
+- Photos by angle: front, top, and sides
+- Daily scalp and hair condition with lifestyle notes
+- Check routines like shampoo, tonic, medication, supplements
+- Review changes with comparison and stats
+- PIN lock with on-device storage
+Everything stays on your device and is never sent anywhere.
+</en-US>
+<ja-JP>
+頭皮ケア記録の初回リリースです。
+頭皮と髪の状態、角度別の写真、ケア習慣を毎日記録し、時間ごとの変化を比較できます。
+・正面・頭頂部・側面など角度別の写真
+・頭皮と髪のコンディションと生活習慣の記録
+・シャンプー、トニック、薬、サプリなどの習慣チェック
+・比較と統計で変化を確認
+・PINロックと端末内保存で安心
+すべての記録は端末内にのみ保存され、外部には送信されません。
+</ja-JP>
+<zh-CN>
+头皮护理记录首次发布。
+每天记录头皮与头发状态、不同角度的照片以及护理习惯，并比较随时间的变化。
+· 正面、头顶、侧面等不同角度的照片
+· 头皮与头发状况及生活习惯记录
+· 洗发水、营养液、药物、补充剂等护理打卡
+· 通过对比与统计查看变化
+· PIN 锁与本地存储更安心
+所有记录仅保存在设备本地，绝不上传。
+</zh-CN>

@@ -1,8 +1,0 @@
-{
-  "name": "두피케어기록",
-  "description": "40~50대 남성을 위한 두피 및 모발 상태, 관리 루틴을 차분히 기록하고 비교하는 로컬 전용 개인 맞춤형 기록 앱입니다.",
-  "requestFramePermissions": [
-    "android.permission.CAMERA"
-  ],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
